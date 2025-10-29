@@ -1,4 +1,4 @@
-% WiDS 2021 - FULL PIPELINE (FINAL WITH PROBABILITY OUTPUT + VISUALS)
+
 clearvars;
 close all;
 clc;
